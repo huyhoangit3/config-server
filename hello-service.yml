@@ -1,4 +1,2 @@
-server:
-  port: 9999
 app:
   msg: Hello 1
